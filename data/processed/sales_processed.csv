@@ -1,0 +1,4 @@
+OrderId,Customer,Country,Amount,OrderDate,AmountWithTax
+1,John,India,1200,2025-01-01,1416.0
+3,David,India,1500,2025-01-03,1770.0
+4,Anne,Ireland,2000,2025-01-04,2360.0

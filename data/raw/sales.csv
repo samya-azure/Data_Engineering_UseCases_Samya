@@ -1,0 +1,5 @@
+OrderId,Customer,Country,Amount,OrderDate
+1,John,India,1200,2025-01-01
+2,Maria,Ireland,800,2025-01-02
+3,David,India,1500,2025-01-03
+4,Anne,Ireland,2000,2025-01-04
